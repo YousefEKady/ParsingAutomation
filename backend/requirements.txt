@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+clickhouse-driver
+telethon
+python-multipart
+aiofiles
+py7zr
+rarfile
+python-dotenv 
